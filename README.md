@@ -25,6 +25,10 @@ Welcome to visit my Github Profile!
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=SmartPolarBear&theme=tokyonight&show_icons=true)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
 
 
 <!--
