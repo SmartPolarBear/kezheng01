@@ -1,26 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
-#### 🇺🇦 **Stand with Ukraine !**
+### 🇺🇦 **Stand with Ukraine !** 🇺🇦 
 
-Welcome to visit my Github Profile!
+Welcome to visit my GitHub Profile!
 
 #### Quick Glance at Me
 
 - ♂️ He/Him
 - 🏫 Year 3 Computer Science Undergraduate
-- 💻 Windows 11. Having been Windows Insider for 5 years. Mostly work with Debian under WSL.
-- 💓 Former UWP Developer of Music+ Player. C#/C++/Kotlin, CMake.
-- 🌱 Learning about compilers and OS kernels.
-- 🔭 Working on [project-dionysus](https://github.com/SmartPolarBear/project-dionysus), [clox](https://github.com/SmartPolarBear/clox) and [barrel](https://github.com/SmartPolarBear/barrel).  
+- 💻 Windows 11. Having been Windows Insider for 7 years. Mostly work with Ubuntu under WSL.
+- 💓 Former UWP Developer of Music+ Player. C#/C++/Kotlin. Mostly use CMake for C++ projects.
+- 🌱 Researching 3D computer vision. Learning about compilers and OS kernels.
+- 🔭 Working on [project-dionysus](https://github.com/SmartPolarBear/project-dionysus), [clox](https://github.com/SmartPolarBear/clox) and [barrel](https://github.com/SmartPolarBear/barrel). Also researching point cloud registration using deep learning methods
 
 #### Currently...
-- Making clox a static-typed compiled language.
-- Implementing the IPC interfaces for project-dionysus
-- Learning about database, computer graphic and computer network.
-- Trying to build a sqlite-like DB system barrel
+- Trying to build a sqlite-like DB system called barrel
 - Learning Jetpack Compose and Flutter to understand declarative-styled UI frameworks.
-- It may be the right time to pick up my Windows development skills? 
-
+- Working with pytorch for deep learning tasks
+- Seeking for new points of interests and new passion
 
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=SmartPolarBear&theme=tokyonight&show_icons=true)
