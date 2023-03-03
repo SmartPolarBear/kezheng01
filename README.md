@@ -4,7 +4,7 @@ Welcome to visit my GitHub Profile!
 
 ## 🇺🇦 **Stand with Ukraine !** 🇺🇦 
 
-### One year later, Kyiv stands. Ukraine stands. Democracy stands. 
+### One year later, Kyiv stands. Ukraine stands.  
 
 **Slava Ukraini !**
 
