@@ -2,13 +2,6 @@
 
 Welcome to visit my GitHub Profile!
 
-## 🇺🇦 **Stand with Ukraine !** 🇺🇦 
-
-### One year later, Kyiv stands. Ukraine stands.  
-
-**Slava Ukraini !**
-
-
 #### Quick Glance at Me
 
 - ♂️ He/Him
